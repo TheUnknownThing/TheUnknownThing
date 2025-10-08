@@ -1,0 +1,23 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC every day
+
+jobs:
+  update-readme:
+    name: Update Readme with Waka Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: athul/waka-readme@master
+        with:
+          WAKAPI_API_URL: ${{ secrets.WAKAPI_API_URL }}
+          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional custom settings
+          SHOW_TITLE: "true"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          LANG_COUNT: "5"
