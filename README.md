@@ -1,8 +1,14 @@
-## Hi there 🙋
 
-I'm TheUnknownThing.
+<div align="center">
 
-You could see my coding activities here:
+  <h1>
+    Hi there, I'm TheUnknownThing
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+#### See my coding activities below 👀
+
 <!--START_SECTION:waka-->
 
 ```txt
