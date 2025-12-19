@@ -12,17 +12,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 17 December 2025
+From: 19 November 2025 - To: 19 December 2025
 
-Total Time: 140 hrs 22 mins
+Total Time: 134 hrs 40 mins
 
-Python          45 hrs 54 mins  ████████▒░░░░░░░░░░░░░░░░   32.70 %
-C++             22 hrs 48 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-Tex             22 hrs 27 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Markdown        8 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Llvm            3 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Rust            2 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Typescript      0 hrs 53 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Python          41 hrs 41 mins  ███████▓░░░░░░░░░░░░░░░░░   30.95 %
+C++             22 hrs 44 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+Tex             22 hrs 27 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+Markdown        8 hrs 1 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Llvm            3 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Rust            2 hrs 41 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Typescript      0 hrs 53 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
