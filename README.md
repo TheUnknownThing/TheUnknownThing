@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 30 December 2025
+From: 01 December 2025 - To: 31 December 2025
 
-Total Time: 113 hrs 20 mins
+Total Time: 113 hrs 37 mins
 
-Python          39 hrs 41 mins  ████████▓░░░░░░░░░░░░░░░░   35.01 %
-Tex             29 hrs 25 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-Markdown        7 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-C++             4 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Python          39 hrs 41 mins  ████████▓░░░░░░░░░░░░░░░░   34.92 %
+Tex             30 hrs 3 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+Markdown        7 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+C++             4 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 Rust            1 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Html            1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Html            1 hrs 0 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 C               0 hrs 58 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
