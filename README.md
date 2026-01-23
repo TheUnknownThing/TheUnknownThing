@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 21 January 2026
+From: 24 December 2025 - To: 22 January 2026
 
-Total Time: 47 hrs 42 mins
+Total Time: 47 hrs 43 mins
 
-Tex             13 hrs 51 mins  ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-Python          12 hrs 55 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Markdown        7 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Python          12 hrs 59 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+Tex             12 hrs 25 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+Markdown        8 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
 C++             1 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 C               1 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Openedge abl    1 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Openedge abl    1 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 Css             0 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
