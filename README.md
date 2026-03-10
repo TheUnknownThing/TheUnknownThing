@@ -12,17 +12,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2026 - To: 09 March 2026
+From: 08 February 2026 - To: 09 March 2026
 
-Total Time: 20 hrs 54 mins
+Total Time: 19 hrs 45 mins
 
-C++           12 hrs 36 mins        ███████████████░░░░░░░░░░   60.28 %
-Markdown      2 hrs 47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Python        1 hrs 33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Llvm          0 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Html          0 hrs 28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Javascript    0 hrs 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Rust          0 hrs 24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+C++           12 hrs 36 mins        ████████████████░░░░░░░░░   63.77 %
+Markdown      2 hrs 23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Python        1 hrs 33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Llvm          0 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Javascript    0 hrs 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Rust          0 hrs 24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Json          0 hrs 20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
