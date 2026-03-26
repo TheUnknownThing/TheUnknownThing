@@ -12,17 +12,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2026 - To: 25 March 2026
+From: 24 February 2026 - To: 26 March 2026
 
-Total Time: 11 hrs 46 mins
+Total Time: 10 hrs 23 mins
 
-Python       4 hrs 15 mins         █████████░░░░░░░░░░░░░░░░   36.21 %
-Markdown     3 hrs 11 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
-C++          1 hrs 15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Javascript   0 hrs 27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Toml         0 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-Json         0 hrs 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Typescript   0 hrs 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Python       4 hrs 15 mins         ██████████▒░░░░░░░░░░░░░░   41.02 %
+Markdown     2 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+C++          1 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Toml         0 hrs 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Json         0 hrs 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Tex          0 hrs 12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Css          0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
