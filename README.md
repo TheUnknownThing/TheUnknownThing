@@ -12,17 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2026 - To: 05 April 2026
+From: 07 March 2026 - To: 06 April 2026
 
-Total Time: 5 hrs 56 mins
+Total Time: 5 hrs 17 mins
 
-Python       2 hrs 46 mins         ███████████▓░░░░░░░░░░░░░   46.66 %
-Markdown     1 hrs 13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 %
-Toml         0 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-Css          0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Html         0 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Typescript   0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Json         0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python       2 hrs 45 mins         █████████████░░░░░░░░░░░░   52.01 %
+Markdown     0 hrs 57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+Toml         0 hrs 25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Html         0 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Json         0 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Javascript   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
