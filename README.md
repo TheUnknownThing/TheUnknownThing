@@ -47,7 +47,15 @@
   <h3>📊 GitHub Analytics</h3>
   <p>
     <a href="https://github.com/theunknownthing">
-      <img src="https://github-readme-stats.vercel.app/api?username=theunknownthing&show_icons=true&theme=omni&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats" />
+      <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="GitHub Profile Details" />
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/theunknownthing">
+      <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Top Languages in Commits" />
+    </a>
+    <a href="https://github.com/theunknownthing">
+      <img src="./profile-summary-card-output/transparent/4-productive-time.svg" alt="Productive Time" />
     </a>
   </p>
 </div>
