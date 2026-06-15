@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 68 hrs 13 mins
+Total Time: 72 hrs 15 mins
 ```
 
 <!--END_SECTION:waka-->
