@@ -66,6 +66,8 @@
 
 ```txt
 Total Time: 0 hrs 0 mins
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
