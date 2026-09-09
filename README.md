@@ -59,15 +59,3 @@
     </a>
   </p>
 </div>
-
-#### See how much time I've spent coding for last 30 days 👀
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 hrs 0 mins
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
