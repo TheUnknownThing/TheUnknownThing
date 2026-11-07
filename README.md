@@ -1,47 +1,23 @@
-
 <div align="center">
 
   <h1>
-    Hi there, I'm TheUnknownThing
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi, I'm Hanning Wang
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand" />
   </h1>
-  
-  <p>
-    <a href="https://theunknownth.ing/">Blog</a> •
-    <a href="https://acm.sjtu.edu.cn/~theunknownthing">Academic Homepage</a> •
-    <a href="https://acm.sjtu.edu.cn/~theunknownthing/cv">CV</a>
-  </p>
 
   <p>
-    Undergraduate at Shanghai Jiao Tong University, majoring in Computer Science.
-    I enjoy exploring different areas of programming and machine learning systems.
+    <a href="https://acm.sjtu.edu.cn/~theunknownthing/">Homepage</a> ·
+    <a href="https://acm.sjtu.edu.cn/~theunknownthing/cv/">CV</a> ·
+    <a href="https://theunknownth.ing/">Blog</a> ·
+    <a href="mailto:theunknownthing@sjtu.edu.cn">Email</a>
   </p>
 </div>
 
-<div align="center">
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <br/>
-  <p>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </p>
+I'm an undergraduate in the [ACM Honors Class](https://acm.sjtu.edu.cn/) at **Shanghai Jiao Tong University** and a research intern at the [Shanghai Innovation Institute](https://sii.edu.cn/).
 
-  <p>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Helix-281733?style=for-the-badge&logo=helix&logoColor=white" alt="Helix" />
-    <img src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" alt="Zed" />
-    <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" alt="GoLand" />
-    &nbsp;&nbsp; &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
-  </p>
-</div>
+I work on pretraining data pipelines and efficient training infrastructure. I contributed to [**801-30B-A3B-Base**](https://github.com/GAIR-NLP/801-30B), check out our tech report!
+
+Beyond research, I enjoy building network tools, photographing, and playing Slay the Spire. Visit my [blog](https://theunknownth.ing/) for more!
 
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
